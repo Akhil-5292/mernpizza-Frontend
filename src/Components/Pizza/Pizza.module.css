@@ -1,0 +1,25 @@
+h1{
+    font-size: 20px;
+}
+
+.img{
+    height: 200px;
+    width: 200px;
+}
+
+.container{
+    display: flex;
+
+}
+
+.btn{
+    background-color: red !important;
+    color: white !important;
+    border: none;
+    outline: none;
+}
+
+select{
+    box-shadow: none;
+    border-color: black !important;
+}
